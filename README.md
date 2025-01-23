@@ -12,7 +12,7 @@ git clone https://github.com/Elbaton1/SeatReservation.git
 ```
 
 ```bash
-cd MovieTheaterImplementation
+cd SeatReservation
 ```
 
 ## Run these commands
