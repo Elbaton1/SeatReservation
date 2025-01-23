@@ -1,0 +1,72 @@
+PS C:\Users\mobri\Documents\School\MovieTheaterImplementation> javac Theatre.java
+PS C:\Users\mobri\Documents\School\MovieTheaterImplementation> java Theatre.java
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 1
+
+SEATING CHART:
+O O O O O 
+O O O O O 
+O O O O O 
+O O O O O 
+O O O O O 
+
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 2
+Enter row # (1-5): 1
+Enter col # (1-5): 3
+Seat reserved! Enjoy!
+
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 1
+
+SEATING CHART:
+O O X O O
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 3
+Enter row # (1-5): 1
+Enter col # (1-5): 3
+Reservation canceled.
+
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 1
+
+SEATING CHART:
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+O O O O O
+
+=== THEATRE APP ===
+1. Show Seating Chart
+2. Reserve a Seat
+3. Cancel a Seat
+4. Quit
+Enter choice: 4
+Thanks for using my theatre app! Bye!
+PS C:\Users\mobri\Documents\School\MovieTheaterImplementation> 
